@@ -1,3 +1,2 @@
 [Credentials]
-client_id = XXXXXXXXXXXXX
-api_key = 99999999999999999999999
+api_token = "your token here"

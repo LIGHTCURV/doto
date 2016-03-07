@@ -22,7 +22,8 @@ from ._version import get_versions
 __version__ = get_versions()['version']
 del get_versions
 
-BASEURL = "https://api.digitalocean.com"
+# BASEURL = "https://api.digitalocean.com"
+BASEURL = "https://api.digitalocean.com/v2"
 
 class connect_d0(object):
 
